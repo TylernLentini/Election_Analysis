@@ -1,19 +1,6 @@
-#data to retrieve
-
-#1.Total number of votes cast 
-
-#2 list of candidates who received votes
-
-#3 total number of votes per candidate 
-
-#4 % of votes each candidate won 
-
-#5 winner of the election based on popular vote
-
 #Add dependencies
 import csv
 import os
-
 #assign a variable to load a file from a path
 file_to_load = os.path.join("Resources", "election_results.csv")
 # Assign a variable to save the file to a path
@@ -28,7 +15,7 @@ candidate_options = []
 #declare cadidates votes dictionary
 candidate_votes = {}
 
-# Winning Candidate and Winning Count Tracker
+# Track the winning candidate, vote count, and percentage.
 winning_candidate = ""
 winning_count = 0
 winning_percentage = 0
@@ -47,7 +34,7 @@ with open(file_to_load) as election_data:
         total_votes += 1
 
         
-        # Print the candidate name for each row. 
+        # get the candidate name for each row. 
         candidate_name = row[2]
     
         #If the candidate does not match any existing candidate
