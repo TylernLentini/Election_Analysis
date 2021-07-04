@@ -10,13 +10,14 @@ In the challenge, the election commission requested some additional data to comp
 ##Election Audit Results 
 * In total, 369,711 votes were cast in this congressional election. 
 
-* ![County_Votes_Screengrab] (file:///Users/tylerlentini/Desktop/County_Votes_Screengrab.png)
+* ![County_Votes_Screengrab](https://user-images.githubusercontent.com/84756166/124370001-1a2b6000-dc40-11eb-941d-8d0078a75b85.png)
 
-* ![Largest_County](file:///Users/tylerlentini/Desktop/Screen%20Shot%202021-07-03%20at%208.12.48%20PM.png)
+* ![Screen Shot 2021-07-03 at 8 12 48 PM](https://user-images.githubusercontent.com/84756166/124370003-22839b00-dc40-11eb-96e4-94155f7db34b.png)
 
-* ![Candidate_Stats](file:///Users/tylerlentini/Desktop/Candidate_votes.png)
+* ![Candidate_votes](https://user-images.githubusercontent.com/84756166/124370011-36c79800-dc40-11eb-9ff4-1bdc5b5b5469.png)
 
-* ![Election_Winner](file:///Users/tylerlentini/Desktop/Election_Winner.png)
+* ![Election_Winner](https://user-images.githubusercontent.com/84756166/124370015-3f1fd300-dc40-11eb-8da4-5977714fe60e.png)
+
 
 ##Election-Audit Summary 
 
